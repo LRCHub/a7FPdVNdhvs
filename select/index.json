@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Seven Doors",
+  "base_artist": "ZAQ",
+  "createdAt": "2025-12-11T09:31:30.264936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seven Doors Hotel",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/01_Seven_Doors_Hotel_Europe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seven Doors Hotel",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/02_Seven_Doors_Hotel_Europe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seven Doors Hotel (Live at Sweden Rock Festival 2013)",
+      "artist": "Europe",
+      "has_synced": false,
+      "path": "select/03_Seven_Doors_Hotel_(Live_at_Sweden_Rock_Festival_2013)_Europe.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Seven Doors",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/04_Seven_Doors_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Seven Doors Hotel (Album Version)",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/05_Seven_Doors_Hotel_(Album_Version)_Europe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Seven Doors Hotel - 2013 Live Version",
+      "artist": "Europe",
+      "has_synced": false,
+      "path": "select/06_Seven_Doors_Hotel_-_2013_Live_Version_Europe.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seven Doors of Death",
+      "artist": "Limbonic Art",
+      "has_synced": true,
+      "path": "select/07_Seven_Doors_of_Death_Limbonic_Art.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seven Doors",
+      "artist": "ZAQ",
+      "has_synced": false,
+      "path": "select/pl_01_Seven_Doors_ZAQ.txt"
+    }
+  ]
+}
